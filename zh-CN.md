@@ -4,3 +4,13 @@
 在 [PixelWine/recent-developments](../../) 仓库：
 - 创建了 README.md 和 zh-CN.md. （一切的开始😜）
 - 修改了 README.md 和 zh-CN.md. （计入了今日动态hhh🙃）
+
+在所有隶属于 [PixelWine Team](https://github.com/pixelwineteam) & [Pixel-Dev-Team](https://github.com/Pixel-Dev-Team) & [PixelWine](https://github.com/PixelWine) & [PWDSPA](https://github.com/AODS-China) & [FuckNoMotherCompanyAlliance](https://github.com/FuckNoMotherCompanyAlliance) 的仓库：
+- 将所有需要翻译为中文的外文文章均采用 DeepL 翻译器进行翻译为中文，之前已翻译过的文章将会尽可能重译。（P.S. 重译的文章的 Commit 注释将会被设置为："Re-translation-by-DeepL: [filename]"）（小声：因为我们发现 DeepL 可能比其他任何翻译都要准确得多！😄）
+- 将所有需要翻译为外文的中文文章均采用 DeepL 翻译器进行翻译为外文，之前已翻译过的文章将会尽可能重译。（P.S. 重译的文章的 Commit 注释将会被设置为："Re-translation-by-DeepL: [filename]"）（小声：因为我们发现 DeepL 可能比其他任何翻译都要准确得多！😄）
+
+在 [Pixel-Dev-Team/DingBot](https://github.com/Pixel-Dev-Team/DingBot) 仓库：
+- 将该仓库迁移至 PixelWineTeam 名下。
+
+在 [FuckNoMotherCompanyAlliance/Fuck_CJMarketing_hosts](https://github.com/FuckNoMotherCompanyAlliance/Fuck_CJMarketing_hosts) 仓库：
+- 将该仓库迁移至 PixelWine 名下。
