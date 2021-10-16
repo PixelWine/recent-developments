@@ -11,6 +11,10 @@ In [PixelWine/recent-developments](../../) repository.
 
 In the [PixelWine/NCMDump](https://github.com/pixelwine/ncmdump) repository.
 - Blocked by GitHub due to NetEase report.
+
+In the [PixelWineTeam/2ndVerify-Windows](https://github.com/PixelWineTeam/2ndVerify-Windows) repository.
+- Updated README.
+
 ## 2021.10.10 Sunday
 In [PixelWine/recent-developments](../../) repository.
 - Created README.md and zh-CN.md. (where it all started 😜)
