@@ -7,6 +7,9 @@
 
 在 [PixelWine/NCMDump](https://github.com/pixelwine/ncmdump) 仓库：
 - 被 GitHub 因 NetEase 举报而封锁.
+
+在 [PixelWineTeam/2ndVerify-Windows](https://github.com/PixelWineTeam/2ndVerify-Windows) 仓库：
+- 更新了 README.
 ## 2021.10.10 周日
 在 [PixelWine/recent-developments](../../) 仓库：
 - 创建了 README.md 和 zh-CN.md. （一切的开始😜）
