@@ -1,6 +1,13 @@
 Chinese speaking users? We also offer a [Chinese version](../../blob/main/zh-CN.md).
 # Recent Developments
 Recent developments in PixelWineTeam and PixelWine(me).
+## 2021.10.16 Saturday
+In [PixelWine/recent-developments](../../) repository.
+- Changed dynamic update method to newer and older.
+- Decided not to count README.md and zh-CN.md as dynamic when updating them in the future. (Too lazy 😁)
+
+In the [PixelWine/NCMDump](https://github.com/pixelwine/ncmdump) repository.
+- Blocked by GitHub due to NetEase report.
 ## 2021.10.10 Sunday
 In [PixelWine/recent-developments](../../) repository.
 - Created README.md and zh-CN.md. (where it all started 😜)
