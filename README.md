@@ -1,4 +1,7 @@
-Chinese speaking users? We also offer a [Chinese version](../../blob/main/zh-CN.md).
+> 中文用户？我们提供[中文版](../../blob/main/zh-CN.md)！
+
+> Chinese speaking users? We also offer a [Chinese version](../../blob/main/zh-CN.md).
+
 # Recent Developments
 Recent developments in PixelWineTeam and PixelWine(me).
 ## 2021.10.16 Saturday
