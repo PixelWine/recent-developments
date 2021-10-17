@@ -1,5 +1,9 @@
 # 今日动态
 这个文件介绍了 PixelWine 开发团队与 PixelWine 本人近日的活动动态。
+## 2021.10.17 周日
+在 [PixelWine/PreferredSoft](https://github.com/PixelWine/PreferredSoft)仓库：
+- 删除了 README.md.
+- 重译了 README_INT.md 并将其更名为 README.md.
 ## 2021.10.16 周六
 在 [PixelWine/recent-developments](../../) 仓库：
 - 将动态更新方式更换为上新下旧.
