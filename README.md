@@ -4,6 +4,10 @@
 
 # Recent Developments
 Recent developments in PixelWineTeam and PixelWine(me).
+## 2021.10.17 Sunday
+In the [PixelWine/PreferredSoft](https://github.com/PixelWine/PreferredSoft) repository.
+- Removed README.md.
+- Redirected README_INT.md and renamed it to README.md.
 ## 2021.10.16 Saturday
 In [PixelWine/recent-developments](../../) repository.
 - Changed dynamic update method to newer and older.
